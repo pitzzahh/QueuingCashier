@@ -1,0 +1,12 @@
+D:\QueuingForm\QueuingForm\bin\Debug\QueuingForm.exe.config
+D:\QueuingForm\QueuingForm\bin\Debug\QueuingForm.exe
+D:\QueuingForm\QueuingForm\bin\Debug\QueuingForm.pdb
+D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.csproj.AssemblyReference.cache
+D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.csproj.SuggestedBindingRedirects.cache
+D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.Properties.Resources.resources
+D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.csproj.GenerateResource.cache
+D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.csproj.CoreCompileInputs.cache
+D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.exe
+D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.pdb
+D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.CashierWindowQueueForm.resources
+D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.QueuingForm.resources
