@@ -10,7 +10,7 @@ namespace QueuingForm
         {
             InitializeComponent();
             var timer  = new Timer();
-            timer.Interval = 2000;
+            timer.Interval = 1000;
             timer.Tick += (sender, args) =>
             {
                 lblServingNumber.Text = _currentNumber;

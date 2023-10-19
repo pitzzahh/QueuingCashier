@@ -84,6 +84,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnCashier);
             this.Location = new System.Drawing.Point(15, 15);
+            this.MaximizeBox = false;
             this.Name = "QueuingForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.ResumeLayout(false);
