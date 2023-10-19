@@ -1,4 +1,4 @@
-﻿namespace QueuingForm
+﻿namespace QueuingForm // written by: Peter John Arao (pitzzahh)
 {
     partial class QueuingForm
     {
