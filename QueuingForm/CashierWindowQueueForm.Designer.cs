@@ -77,7 +77,6 @@ namespace QueuingForm // written by: Peter John Arao (pitzzahh)
             this.Controls.Add(this.btnRefresh);
             this.Controls.Add(this.listCashierQueue);
             this.Location = new System.Drawing.Point(15, 15);
-            this.MaximizeBox = false;
             this.Name = "CashierWindowQueueForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.ResumeLayout(false);
