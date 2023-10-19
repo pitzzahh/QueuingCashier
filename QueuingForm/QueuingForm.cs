@@ -41,6 +41,4 @@ namespace QueuingForm
             return cashierNumber;
         }
     }
-    
-    
 }

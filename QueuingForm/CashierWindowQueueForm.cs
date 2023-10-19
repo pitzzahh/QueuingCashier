@@ -6,16 +6,20 @@ namespace QueuingForm
 {
     public partial class CashierWindowQueueForm : Form
     {
+        private int _listCount;
         public CashierWindowQueueForm()
         {
             InitializeComponent();
             var timer = new Timer();
             timer.Interval = (1 * 1000);
+            timer.Tick += btnRefresh_Click;
             timer.Start();
         }
 
         private void btnRefresh_Click(object sender, EventArgs e)
         {
+            _listCount = CashierClass.CashierQueue.Count;
+            if (_listCount <= listCashierQueue.Items.Count) return;
             DisplayCashierQueue(CashierClass.CashierQueue);
         }
     
