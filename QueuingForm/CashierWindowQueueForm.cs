@@ -11,7 +11,7 @@ namespace QueuingForm
         {
             InitializeComponent();
             var timer = new Timer();
-            timer.Interval = (1 * 1000);
+            timer.Interval = 2000;
             timer.Tick += btnRefresh_Click;
             timer.Start();
         }
@@ -29,6 +29,18 @@ namespace QueuingForm
             foreach (var queue in cashierQueue)
             {
                 listCashierQueue.Items.Add(queue);
+            }
+        }
+
+        private void btnNext_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                CashierClass.CashierQueue.Dequeue();
+            }
+            catch (Exception)
+            {
+                MessageBox.Show(@"No customer in queue");
             }
         }
     }

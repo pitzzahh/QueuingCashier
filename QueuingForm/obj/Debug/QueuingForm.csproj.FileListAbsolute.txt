@@ -10,3 +10,4 @@ D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.exe
 D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.pdb
 D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.CashierWindowQueueForm.resources
 D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.QueuingForm.resources
+D:\QueuingForm\QueuingForm\obj\Debug\QueuingForm.CustomerView.resources
